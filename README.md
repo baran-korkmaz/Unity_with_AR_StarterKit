@@ -9,7 +9,8 @@
 
 <p align="center">
   <br>
-  <img width="400" src="img/unity.jpg" alt="logo of Unity">
+  <img width="800" src="img/unity.jpg" alt="logo of Unity">
+  <img width="800" src="img/AR_Travel.png" alt="logo of Unity">
   <br>
   <br>
 </p>
