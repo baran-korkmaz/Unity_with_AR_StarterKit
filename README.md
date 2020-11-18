@@ -9,7 +9,7 @@
 
 <p align="center">
   <br>
-  <img width="400" src="img/unity.png" alt="logo of Unity">
+  <img width="400" src="img/unity.jpg" alt="logo of Unity">
   <br>
   <br>
 </p>
